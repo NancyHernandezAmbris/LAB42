@@ -3,9 +3,9 @@
 # Copiar todo esto #
 #                  #
 ####################
-# Hecho con gusto por Carla Carolina P�rez Hern�ndez (UAEH)
+# Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
 #V9
-# LABORATORIO - Gr�ficos en R con ggplot2 para Ciencia de Datos
+# LABORATORIO - Gráficos en R con ggplot2 para Ciencia de Datos
 # editar con temas de ggplot2
 
 
@@ -23,7 +23,7 @@ library(gapminder)
 # cargando datos a entorno
 data("gapminder")
 
-# filtrando por a�o 2007
+# filtrando por año 2007
 gapminder2007 <- gapminder[gapminder$year == '2007', ]
 
 
@@ -33,8 +33,9 @@ gapminder2007 <- gapminder[gapminder$year == '2007', ]
 
 
 
+# mostrar gráfico
 
-# temas b�sicos
+# temas básicos
 
 
 # mas temas
